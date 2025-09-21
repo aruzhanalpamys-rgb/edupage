@@ -130,6 +130,7 @@ h1 {
 /* DAY */
 .day p {
   margin: 0;
+  text-align: center;
 }
 .day span {
   margin-left: 40px;
