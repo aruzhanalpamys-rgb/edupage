@@ -131,6 +131,14 @@ h1 {
 .day p {
   margin: 0;
 }
+.day span {
+  margin-left: 40px;
+  font-size: 13px;
+}
+.day {
+  box-sizing: border-box;
+  padding-top: 20px;
+}
 .day1 {
   grid-column: 1/2;
   grid-row: 2/3;
